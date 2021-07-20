@@ -20,7 +20,7 @@ function setup(){
 }
 
 function draw(){
-    background("yellow");
+    background("white");
     Engine.update(engine);
     bucket.display();
     paper.display();
